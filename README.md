@@ -1,4 +1,4 @@
-## Laravel Project for OpnSense Wifi Access Voucher Printer
+## Laravel Wifi Access Voucher Printer OpnSense
 
 
 -----
@@ -8,13 +8,13 @@
 Clone this project to your local computer.
 
 ```ps
-git clone git@github.com:eaeoz/voucher.git
+git clone git@github.com:eaeoz/opnsense-voucher.git
 ```
 
 Navigate to the project folder.
 
 ```ps
-cd voucher
+cd opnsense-voucher
 ```
 
 Install required packages.
