@@ -47,4 +47,4 @@ That's it: launch the main URL
 
 ## More info
 
-https://sedat.cf
+https://lime.ml
